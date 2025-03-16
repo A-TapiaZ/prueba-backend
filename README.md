@@ -62,6 +62,7 @@
 
 ## Para desplegar en AWS usando ECS + RDS
 
+
 1. Crear la DB(postgresql) usando el servicio RDS.
 2. Ejecutar la migracion usando la Url asignada en el paso anterior.
 3. Crear imagen del api para subirla a Amazon ECR.
